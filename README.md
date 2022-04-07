@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- [![xu-song's github stats](https://github-readme-stats.vercel.app/api?username=xu-song)](https://github.com/xu-song)
+ 
+ ![xu-song's github stats](https://github-readme-stats.vercel.app/api?username=xu-song&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xu-song&langs_count=8&exclude_repo=xu-song.github.io&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)

@@ -33,6 +33,7 @@ other minior contributions
 - https://github.com/microsoft/DeepSpeedExamples/commits?author=xu-song
 - https://github.com/microsoft/DeepSpeed/commits?author=xu-song
 - https://github.com/tensorflow/tensor2tensor/commits?author=xu-song
+- https://github.com/THUDM/icetk/commits?author=xu-song
 
 
 Here are some of my creations:

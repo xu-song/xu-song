@@ -25,8 +25,18 @@ Software is beautiful. I love writing code with Python. Here are some of my cont
 - **[pytorch/fairseq](https://github.com/pytorch/fairseq/commits?author=xu-song)**:
 - **[shibing624/pycorrector](https://github.com/shibing624/pycorrector/commits?author=xu-song)**: 
 - **[EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox/commits?author=xu-song)**:
+- **[theme-next/hexo-theme-next](https://github.com/theme-next/hexo-theme-next/commits?author=xu-song)**:
+
+
+other minior contributions
+- https://github.com/huggingface/transformers/commits/?author=xu-song
+- https://github.com/microsoft/DeepSpeedExamples/commits?author=xu-song
+- https://github.com/microsoft/DeepSpeed/commits?author=xu-song
+- https://github.com/tensorflow/tensor2tensor/commits?author=xu-song
+
 
 Here are some of my creations:
+https://huggingface.co/spaces/eson/tokenizer-arena
 -->
 
  

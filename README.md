@@ -17,7 +17,16 @@ Here are some ideas to get you started:
 -->
 
 <!--
-contributions: https://github.com/brettcannon/brettcannon/blob/main/README.md
+contributions: https://github.com/brettcannon/brettcannon/blob/main/README.md  https://github.com/kennethreitz
+
+Software is beautiful. I love writing code with Python. Here are some of my contributions:
+
+- **[python/cpython](https://github.com/python/cpython/commits?author=xu-song)**: An elegant and simple HTTP library for Python, built for human beings.
+- **[pytorch/fairseq](https://github.com/pytorch/fairseq/commits?author=xu-song)**:
+- **[shibing624/pycorrector](https://github.com/shibing624/pycorrector/commits?author=xu-song)**: 
+- **[EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox/commits?author=xu-song)**:
+
+Here are some of my creations:
 -->
 
  

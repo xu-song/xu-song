@@ -52,6 +52,7 @@ Software is beautiful. I love writing code with Python. Here are some of my cont
 
 <details><summary>Other minior contributions</summary>
 <ol>
+<li><a href="https://github.com/microsoft/DeepSpeedExamples/commits?author=xu-song">microsoft/DeepSpeedExamples</a></li>
 <li><a href="https://github.com/theme-next/hexo-theme-next/commits?author=xu-song">theme-next/hexo-theme-next</a></li>
 <li><a href="https://github.com/hexojs/hexo/commits/master/?author=xu-song">hexojs/hexo</a></li>
 <li><a href="https://github.com/hexojs/hexo-cli/commits/master/?author=xu-song">hexojs/hexo-cli</a></li>

@@ -46,8 +46,8 @@ Software is beautiful. I love writing code with Python. Here are some of my cont
 
 - **[python/cpython](https://github.com/python/cpython/commits?author=xu-song)**
 - **[pytorch/fairseq](https://github.com/pytorch/fairseq/commits?author=xu-song)**
-- **[shibing624/pycorrector](https://github.com/shibing624/pycorrector/commits?author=xu-song)**
 - **[EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox/commits?author=xu-song)**
+- **[shibing624/pycorrector](https://github.com/shibing624/pycorrector/commits?author=xu-song)**
 
 
 <details><summary>Other minior contributions</summary>

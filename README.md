@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on NLP and large language models.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xu-song&langs_count=8&exclude_repo=xu-song.github.io&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+ ![xu-song](https://github-profile-trophy.vercel.app/?username=xu-song)
 -->
 
 <!--
@@ -41,7 +43,10 @@ Here are some of my creations:
 https://huggingface.co/spaces/eson/tokenizer-arena
 -->
 
+
+
 ## Contributions
+
 Software is beautiful. I love writing code with Python. Here are some of my contributions:
 
 - **[python/cpython](https://github.com/python/cpython/commits?author=xu-song)**

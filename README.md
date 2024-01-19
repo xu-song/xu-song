@@ -1,5 +1,4 @@
 
-
 <!--
 
 ### Hi there 👋
@@ -16,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xu-song&langs_count=8&exclude_repo=xu-song.github.io&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+<img align="right" src="https://github-readme-stats.hiyouga.vercel.app/api/top-langs/?username=xu-song&hide=HTML" alt="https://github-readme-stats.vercel.app/api/top-langs/?username=xu-song&hide=HTML" />
 
  ![xu-song](https://github-profile-trophy.vercel.app/?username=xu-song)
 -->

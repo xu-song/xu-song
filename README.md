@@ -40,8 +40,11 @@ contributions: https://github.com/brettcannon/brettcannon/blob/main/README.md  h
 - **[hexojs/hexo-starter](https://github.com/hexojs/hexo-starter/commits/master/?author=xu-song)**
 - **[tea3/hexo-tag-instagram](https://github.com/tea3/hexo-tag-instagram/commits/master/?author=xu-song)**
 
-Here are some of my creations:
+## Demos
+Here are some of my demos:
 https://huggingface.co/spaces/eson/tokenizer-arena
+https://huggingface.co/spaces/eson/bert-perplexity
+https://huggingface.co/spaces/eson/kplug
 -->
 
 

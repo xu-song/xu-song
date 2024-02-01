@@ -48,8 +48,9 @@ https://huggingface.co/spaces/eson/kplug
 
 ## Release
 - pip  jieba_patch
-- npm  
+- npm  hexo-auto-category  
 - jar
+- chrome extension: pretty-print
 -->
 
 

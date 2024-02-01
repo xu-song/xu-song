@@ -45,6 +45,11 @@ Here are some of my demos:
 https://huggingface.co/spaces/eson/tokenizer-arena
 https://huggingface.co/spaces/eson/bert-perplexity
 https://huggingface.co/spaces/eson/kplug
+
+## Release
+- pip  jieba_patch
+- npm  
+- jar
 -->
 
 

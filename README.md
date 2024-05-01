@@ -25,10 +25,8 @@ https://github.com/doragd
 contributions: https://github.com/brettcannon/brettcannon/blob/main/README.md  https://github.com/kennethreitz
 
 ## other minior contributions
-- **[huggingface/transformers](https://github.com/huggingface/transformers/commits/?author=xu-song)**
 - **[microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples/commits?author=xu-song)**
 - **[microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed/commits?author=xu-song)**
-- **[microsoft/Megatron-DeepSpeed](https://github.com/microsoft/Megatron-DeepSpeed/commits/main/?author=xu-song)**
 - **[tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor/commits?author=xu-song)**
 - **[THUDM/icetk](https://github.com/THUDM/icetk/commits?author=xu-song)**
 - **[thu-coai/CrossWOZ](https://github.com/thu-coai/CrossWOZ/commits?author=xu-song)**
@@ -40,6 +38,7 @@ contributions: https://github.com/brettcannon/brettcannon/blob/main/README.md  h
 - **[hexojs/site](https://github.com/hexojs/site/commits/master/?author=xu-song)**
 - **[hexojs/hexo-starter](https://github.com/hexojs/hexo-starter/commits/master/?author=xu-song)**
 - **[tea3/hexo-tag-instagram](https://github.com/tea3/hexo-tag-instagram/commits/master/?author=xu-song)**
+
 
 ## Highlight Demos
 Here are some of my demos:
@@ -54,8 +53,6 @@ https://huggingface.co/spaces/eson/kplug
 - chrome extension: pretty-print
 -->
 
-
-
 ## Contributions
 
 Software is beautiful. I love writing code with Python. Here are some of my contributions:
@@ -69,6 +66,8 @@ Software is beautiful. I love writing code with Python. Here are some of my cont
 <details><summary>Other minior contributions</summary>
 <ol>
 <li><a href="https://github.com/pytorch/pytorch/commits/main/?author=xu-song">pytorch/pytorch</a></li>
+<li><a href="https://github.com/huggingface/transformers/commits/main/?author=xu-song">huggingface/transformers</a></li>
+<li><a href="https://github.com/open-compass/opencompass/commits/main/?author=xu-song">open-compass/opencompass</a></li> 
 <li><a href="https://github.com/microsoft/Megatron-DeepSpeed/commits?author=xu-song">microsoft/Megatron-DeepSpeed</a></li>
 <li><a href="https://github.com/microsoft/DeepSpeedExamples/commits?author=xu-song">microsoft/DeepSpeedExamples</a></li>
 <li><a href="https://github.com/thu-coai/CrossWOZ/commits?author=xu-song">thu-coai/CrossWOZ</a></li>
@@ -77,7 +76,6 @@ Software is beautiful. I love writing code with Python. Here are some of my cont
 <li><a href="https://github.com/hexojs/hexo-cli/commits/master/?author=xu-song">hexojs/hexo-cli</a></li>
 <li><a href="https://github.com/hexojs/site/commits/master/?author=xu-song">hexojs/site</a></li>
 <li><a href="https://github.com/hexojs/hexo-starter/commits/master/?author=xu-song">hexojs/hexo-starter</a></li>
-<li><a href="https://github.com/tea3/hexo-tag-instagram/commits/master/?author=xu-song">tea3/hexo-tag-instagram</a></li>
 </ol>
 </details>
 

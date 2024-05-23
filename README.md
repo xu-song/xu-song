@@ -25,11 +25,13 @@ https://github.com/doragd
 contributions: https://github.com/brettcannon/brettcannon/blob/main/README.md  https://github.com/kennethreitz
 
 ## other minior contributions
-- **[microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples/commits?author=xu-song)**
-- **[microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed/commits?author=xu-song)**
-- **[tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor/commits?author=xu-song)**
-- **[THUDM/icetk](https://github.com/THUDM/icetk/commits?author=xu-song)**
-- **[thu-coai/CrossWOZ](https://github.com/thu-coai/CrossWOZ/commits?author=xu-song)**
+- microsoft/DeepSpeedExamples
+- pytorch/tutorials
+- microsoft/DeepSpeed
+- tensorflow/tensor2tensor
+- THUDM/icetk
+- thu-coai/CrossWOZ
+- asap-report/lstm-visualisation
 
 ## hexo 系列
 - **[hexojs/hexo](https://github.com/hexojs/hexo/commits/master/?author=xu-song)**, 
@@ -70,6 +72,7 @@ Software is beautiful. I love writing code with Python. Here are some of my cont
 <li><a href="https://github.com/open-compass/opencompass/commits/main/?author=xu-song">open-compass/opencompass</a></li> 
 <li><a href="https://github.com/microsoft/Megatron-DeepSpeed/commits?author=xu-song">microsoft/Megatron-DeepSpeed</a></li>
 <li><a href="https://github.com/microsoft/DeepSpeedExamples/commits?author=xu-song">microsoft/DeepSpeedExamples</a></li>
+<li><a href="https://github.com/gradio-app/gradio/commits?author=xu-song">gradio-app/gradio</a></li>
 <li><a href="https://github.com/thu-coai/CrossWOZ/commits?author=xu-song">thu-coai/CrossWOZ</a></li>
 <li><a href="https://github.com/theme-next/hexo-theme-next/commits?author=xu-song">theme-next/hexo-theme-next</a></li>
 <li><a href="https://github.com/hexojs/hexo/commits/master/?author=xu-song">hexojs/hexo</a></li>

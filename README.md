@@ -58,9 +58,9 @@ https://huggingface.co/spaces/eson/kplug
 
 ## Hi there 👋
 
-I'm xu song. I currently work on large language models at JD.
+I'm currently working on large language models at JD.
 
-I contribute to open source software, particularly in the Python. Here's a list of my contributions:
+I love contributing to various open source projects. Here are some of my contributions:
 
 
 - **[python/cpython](https://github.com/python/cpython/commits?author=xu-song)**

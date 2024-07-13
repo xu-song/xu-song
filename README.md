@@ -55,9 +55,13 @@ https://huggingface.co/spaces/eson/kplug
 - chrome extension: pretty-print
 -->
 
-## Contributions
 
-Software is beautiful. I love writing code with Python. Here are some of my contributions:
+## Hi there 👋
+
+I'm xu song. I currently work on large language models at JD.
+
+I contribute to open source software, particularly in the Python. Here's a list of my contributions:
+
 
 - **[python/cpython](https://github.com/python/cpython/commits?author=xu-song)**
 - **[pytorch/fairseq](https://github.com/pytorch/fairseq/commits?author=xu-song)**

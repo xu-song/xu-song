@@ -66,25 +66,32 @@ I love contributing to various open source projects. Here are some of my contrib
 - **[python/cpython](https://github.com/python/cpython/commits?author=xu-song)**
 - **[pytorch/fairseq](https://github.com/pytorch/fairseq/commits?author=xu-song)**
 - **[EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox/commits?author=xu-song)**
-- **[shibing624/pycorrector](https://github.com/shibing624/pycorrector/commits?author=xu-song)**
+- **[open-compass/opencompass](https://github.com/open-compass/opencompass/commits/main/?author=xu-song)**
 
 
-<details><summary>Other minior contributions</summary>
-<ol>
-<li><a href="https://github.com/pytorch/pytorch/commits/main/?author=xu-song">pytorch/pytorch</a></li>
-<li><a href="https://github.com/huggingface/transformers/commits/main/?author=xu-song">huggingface/transformers</a></li>
-<li><a href="https://github.com/open-compass/opencompass/commits/main/?author=xu-song">open-compass/opencompass</a></li> 
-<li><a href="https://github.com/microsoft/Megatron-DeepSpeed/commits?author=xu-song">microsoft/Megatron-DeepSpeed</a></li>
-<li><a href="https://github.com/microsoft/DeepSpeedExamples/commits?author=xu-song">microsoft/DeepSpeedExamples</a></li>
-<li><a href="https://github.com/gradio-app/gradio/commits?author=xu-song">gradio-app/gradio</a></li>
-<li><a href="https://github.com/thu-coai/CrossWOZ/commits?author=xu-song">thu-coai/CrossWOZ</a></li>
-<li><a href="https://github.com/theme-next/hexo-theme-next/commits?author=xu-song">theme-next/hexo-theme-next</a></li>
-<li><a href="https://github.com/hexojs/hexo/commits/master/?author=xu-song">hexojs/hexo</a></li>
-<li><a href="https://github.com/hexojs/hexo-cli/commits/master/?author=xu-song">hexojs/hexo-cli</a></li>
-<li><a href="https://github.com/hexojs/site/commits/master/?author=xu-song">hexojs/site</a></li>
-<li><a href="https://github.com/hexojs/hexo-starter/commits/master/?author=xu-song">hexojs/hexo-starter</a></li>
-</ol>
+
+<details>
+
+<summary>Other minior contributions</summary>
+
+- [pytorch/pytorch](https://github.com/pytorch/pytorch/commits/main/?author=xu-song)
+- [huggingface/transformers](https://github.com/huggingface/transformers/commits/main/?author=xu-song)
+- [shibing624/pycorrector](https://github.com/shibing624/pycorrector/commits?author=xu-song)
+- [InternLM/xtuner](https://github.com/InternLM/xtuner/commits/main/?author=xu-song)
+- [microsoft/Megatron-DeepSpeed](https://github.com/microsoft/Megatron-DeepSpeed/commits?author=xu-song)
+- [microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples/commits?author=xu-song)
+- [gradio-app/gradio](https://github.com/gradio-app/gradio/commits?author=xu-song)
+- [thu-coai/CrossWOZ](https://github.com/thu-coai/CrossWOZ/commits?author=xu-song)
+- [theme-next/hexo-theme-next](https://github.com/theme-next/hexo-theme-next/commits?author=xu-song)
+- [hexojs/hexo](https://github.com/hexojs/hexo/commits/master/?author=xu-song)
+- [hexojs/hexo-cli](https://github.com/hexojs/hexo-cli/commits/master/?author=xu-song)
+- [hexojs/site](https://github.com/hexojs/site/commits/master/?author=xu-song)
+- [hexojs/hexo-starter](https://github.com/hexojs/hexo-starter/commits/master/?author=xu-song)
+
+
 </details>
+
+
 
 <!--
 ## Catch me on:

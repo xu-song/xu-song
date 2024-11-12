@@ -63,6 +63,14 @@ I'm currently working on large language models at JD.
 I love contributing to various open source projects. Here are some of my contributions:
 
 
+<!-- ss
+- **[python/cpython](https://github.com/python/cpython/commits?author=xu-song)** ![Star](https://img.shields.io/github/stars/python/cpython.svg?style=social&label=Star)
+- **[pytorch/fairseq](https://github.com/pytorch/fairseq/commits?author=xu-song)** ![Star](https://img.shields.io/github/stars/pytorch/fairseq.svg?style=social&label=Star)
+- **[EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox/commits?author=xu-song)** ![Star](https://img.shields.io/github/stars/EleutherAI/gpt-neox.svg?style=social&label=Star)
+- **[open-compass/opencompass](https://github.com/open-compass/opencompass/commits/main/?author=xu-song)** ![Star](https://img.shields.io/github/stars/open-compass/opencompass.svg?style=social&label=Star)
+-->
+
+
 - **[python/cpython](https://github.com/python/cpython/commits?author=xu-song)**
 - **[pytorch/fairseq](https://github.com/pytorch/fairseq/commits?author=xu-song)**
 - **[EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox/commits?author=xu-song)**

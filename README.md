@@ -84,6 +84,7 @@ I love contributing to various open source projects. Here are some of my contrib
 
 
 - [pytorch/pytorch](https://github.com/pytorch/pytorch/commits/main/?author=xu-song)
+- [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed/commits/master/?author=xu-song)
 - [huggingface/transformers](https://github.com/huggingface/transformers/commits/main/?author=xu-song)
 - [InternLM/xtuner](https://github.com/InternLM/xtuner/commits/main/?author=xu-song)
 - [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python/commits/main/?author=xu-song)

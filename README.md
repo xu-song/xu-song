@@ -24,7 +24,7 @@ https://github.com/doragd
 <!--
 contributions: https://github.com/brettcannon/brettcannon/blob/main/README.md  https://github.com/kennethreitz
 
-## other minior contributions
+## other minor contributions
 - microsoft/DeepSpeedExamples
 - pytorch/tutorials
 - microsoft/DeepSpeed
@@ -80,7 +80,7 @@ I love contributing to various open source projects. Here are some of my contrib
 
 <details>
 
-<summary>Other minior contributions</summary>
+<summary>Other minor contributions</summary>
 
 
 - [pytorch/pytorch](https://github.com/pytorch/pytorch/commits/main/?author=xu-song)
@@ -110,8 +110,7 @@ I love contributing to various open source projects. Here are some of my contrib
 -->
 
 
-## Some stats:
+## Some stats
  
- ![xu-song's github stats](https://github-readme-stats.vercel.app/api?username=xu-song&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![xu-song's github stats](https://github-readme-stats.vercel.app/api?username=xu-song&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
  
-
